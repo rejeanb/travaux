@@ -9,6 +9,13 @@
  * @providesModule accumulate
  */
 
+/* 
+
+   Il est important de noter que ce fichier provient du github facebook/react 
+
+*/
+
+
 'use strict';
 
 var invariant = require('invariant');
